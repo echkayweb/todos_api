@@ -1,5 +1,7 @@
 # todos_api my first api :)
-- simple api using nodejs and mongodb
+'''
+    simple api using nodejs and mongodb
+'''
 # RESTful routes
 # Supports:
 -     adding/creating a task to todo list
